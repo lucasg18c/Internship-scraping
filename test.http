@@ -1,0 +1,12 @@
+GET http://192.168.0.136:5000/api/v1/internships/new/10
+
+###
+
+GET http://192.168.0.136:5000/api/v1/internships
+###
+
+GET http://172.17.0.2:5000/api/v1/internships
+
+###
+
+GET http://172.17.0.2:5000/api/v1/internships/new/16

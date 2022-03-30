@@ -1,0 +1,11 @@
+.vscode/                     
+Lib/                         
+Scripts/            
+bin/
+__pycache__/
+lib/
+lib64/
+share/
+pyvenv.cfg
+lib64    
+pasantias.html
